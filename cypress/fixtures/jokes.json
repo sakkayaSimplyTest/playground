@@ -1,0 +1,20 @@
+
+{ "type": "success", 
+  "value": [ 
+    { "id": 615, 
+      "joke": "Chuck Norris can build a snowman out of rain.", 
+      "categories": [] 
+      
+    },
+
+    { "id": 100,
+     "joke": "Chuck Norris grinds his coffee with his teeth and boils the water with his own rage.",
+     "categories": [] 
+    }, 
+     
+    { "id": 34, 
+      "joke": "The opening scene of the movie &quot;Saving Private Ryan&quot; is loosely based on games of dodgeball Chuck Norris played in second grade.", 
+      "categories": []
+    } 
+  ]  
+}
